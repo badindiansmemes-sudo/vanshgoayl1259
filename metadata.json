@@ -1,0 +1,6 @@
+{
+  "name": "Teen Patti Royal",
+  "description": "Teen Patti gaming platform featuring multiplayer card table, chip betting, secure deposit and withdrawal gateway, and full admin management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
